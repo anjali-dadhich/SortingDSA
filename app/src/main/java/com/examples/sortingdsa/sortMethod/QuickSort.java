@@ -1,4 +1,4 @@
-package com.prinspipes.sortingdsa.sortMethod;
+package com.examples.sortingdsa.sortMethod;
 
 public class QuickSort {
     //role - quick sort method which sort the array recursively

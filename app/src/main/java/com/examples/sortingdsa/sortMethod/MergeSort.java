@@ -1,4 +1,4 @@
-package com.prinspipes.sortingdsa.sortMethod;
+package com.examples.sortingdsa.sortMethod;
 
 public class MergeSort {
     //now we call conqure method

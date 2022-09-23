@@ -1,4 +1,4 @@
-package com.prinspipes.sortingdsa;
+package com.examples.sortingdsa;
 
 import android.content.Context;
 

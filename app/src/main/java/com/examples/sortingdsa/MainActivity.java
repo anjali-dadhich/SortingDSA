@@ -1,4 +1,4 @@
-package com.prinspipes.sortingdsa;
+package com.examples.sortingdsa;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,8 +7,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.prinspipes.sortingdsa.sortMethod.MergeSort;
-import com.prinspipes.sortingdsa.sortMethod.QuickSort;
+import com.examples.sortingdsa.sortMethod.MergeSort;
+import com.examples.sortingdsa.sortMethod.QuickSort;
 
 import java.util.Arrays;
 
